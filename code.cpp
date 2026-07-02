@@ -14,3 +14,4 @@ int main() {
     return 0;
 }
 // nice code implementation
+//function to add two numbers
