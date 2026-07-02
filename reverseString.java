@@ -5,7 +5,7 @@ public class reverseString {
         System.out.println("Original String: " + str);
         System.out.println("Reversed String: " + reversedStr);
     }
-
+    // Method to reverse a string
     public static String reverse(String str) {
         StringBuilder reversed = new StringBuilder();
         for (int i = str.length() - 1; i >= 0; i--) {
