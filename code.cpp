@@ -13,3 +13,4 @@ int main() {
 
     return 0;
 }
+// nice code implementation
