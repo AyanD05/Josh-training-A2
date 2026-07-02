@@ -10,6 +10,6 @@ int main() {
     cin >> x >> y;
 
     cout << add(x, y) << endl;
-
+    cout<<"hello";
     return 0;
 }
